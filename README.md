@@ -1,2 +1,2 @@
 # ActiveSoul8231.github.io
-＃＃你好呀哈哈
+# 好难用的编辑器
